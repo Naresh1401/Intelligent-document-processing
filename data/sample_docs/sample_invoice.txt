@@ -1,0 +1,46 @@
+INVOICE
+
+Invoice Number:   INV-2024-0847
+Invoice Date:     March 15, 2024
+Due Date:         April 14, 2024 (Net 30)
+
+BILL FROM:
+TechVendors Ltd.
+42 Silicon Valley Blvd, Suite 300
+San Francisco, CA 94105
+Tax ID: 12-3456789
+Email: billing@techvendors.com
+
+BILL TO:
+Acme Corporation
+100 Enterprise Way
+New York, NY 10001
+Attn: Accounts Payable
+
+-----------------------------------------------------------
+DESCRIPTION                  QTY   UNIT PRICE    TOTAL
+-----------------------------------------------------------
+Cloud Hosting (Annual)         1    $3,600.00    $3,600.00
+Developer Seats (x5)           5      $240.00    $1,200.00
+Priority Support Package       1      $800.00      $800.00
+API Overage Charges (Feb)      1      $147.50      $147.50
+Setup & Onboarding Fee         1      $250.00      $250.00
+-----------------------------------------------------------
+
+                              Subtotal:          $5,997.50
+                              Tax (8.5%):          $509.79
+                              Discount (5%):      -$299.88
+                              TOTAL DUE:         $6,207.41
+
+Payment Terms: Net 30
+Payment Methods: ACH, Wire Transfer, Credit Card
+
+Bank Details:
+  Bank: First National Bank
+  Account: 0094-2847-1923
+  Routing: 021000021
+
+Please reference invoice number INV-2024-0847 with payment.
+Late payments subject to 1.5% monthly interest charge.
+
+Thank you for your business!
