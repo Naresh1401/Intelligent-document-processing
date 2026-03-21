@@ -1,5 +1,7 @@
 # Intelligent Document Processing (IDP)
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Render-a855f7?style=for-the-badge&logo=render)](https://intelligent-document-processing-qyo8.onrender.com) [![GitHub](https://img.shields.io/badge/GitHub-Naresh1401-181717?style=for-the-badge&logo=github)](https://github.com/Naresh1401/Intelligent-document-processing)
+
 Extract structured data from any business document — invoices, contracts, resumes, medical forms, and bank statements — using LLMs with per-field confidence scoring and a human-in-the-loop review queue.
 
 ---
